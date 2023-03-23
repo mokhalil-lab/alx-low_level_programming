@@ -13,10 +13,10 @@ printf("Infinite loop incoming :(\n");
 
 i = 0;
 /**
-*while (i < 10)
+*comment out infinite loop while (i < 10)
 *{
 *putchar(i);
-*}
+*} printf indicate the overcoming of the blackhole
 */
 printf("Infinite loop avoided! \\o/\n");
 
